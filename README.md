@@ -18,3 +18,19 @@ Project also has ERA model, triggers and complex queries.<br>
   <li>Compelx queries page</li>
 </ul>
 <br>
+
+Bellow this text, there are some pictures of a website.<br>
+*Home page*<br>
+![main_screen_1](https://user-images.githubusercontent.com/35956934/77966040-979c4e00-72e2-11ea-93ed-a5398bdb165b.png)<br>
+<br>
+*Menu*<br>
+![main_screen_2](https://user-images.githubusercontent.com/35956934/77966045-9a973e80-72e2-11ea-8378-fc2cacf5ffff.png)<br>
+<br>
+*List of tables screen*<br>
+![option_1](https://user-images.githubusercontent.com/35956934/77966049-9bc86b80-72e2-11ea-8421-116a049c9556.png)<br>
+<br>
+*Table and CRUD operations view 1*
+![option_1_clan](https://user-images.githubusercontent.com/35956934/77966053-9d922f00-72e2-11ea-9a6f-08b95faaa6a0.png)<br>
+<br>
+*Table and CRUD operations view 2*
+![option_1_dobavljac](https://user-images.githubusercontent.com/35956934/77966060-9ff48900-72e2-11ea-93ad-1189920f5063.png)
