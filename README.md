@@ -1,4 +1,4 @@
-<center><h1>CRUD, Triggers and Complex Queries PHP Application</h1></center>
+<center><h1>Fitty Fit - CRUD, Triggers and Complex Queries PHP Application</h1></center>
 <hr>
 Code is private because of security reasons.
 <hr>
